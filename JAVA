@@ -1,0 +1,6 @@
+var name = 'Hello';
+console.log('Hello')
+function doNothing(){}
+function sayHello() { 
+  console.log('Hello')
+}
